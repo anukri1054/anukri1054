@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anukri1054
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Java and DSA
+- anushkakumari29177@gmail.com
 - 
 
 <!---
